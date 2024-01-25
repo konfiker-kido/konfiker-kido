@@ -1,3 +1,4 @@
+![logo](https://github.com/konfiker-kido/konfiker-kido/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, This is Akash Maurya</h1>
 <h3 align="center">Mastering the Java Realm: Full Stack Developer</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
