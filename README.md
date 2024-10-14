@@ -1,13 +1,9 @@
 ![logo](https://github.com/konfiker-kido/konfiker-kido/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, This is Akash Maurya</h1>
-<h3 align="center">Mastering the Java Realm: Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer (MERN)</h3>
 <img align="right" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 How to reach me **akash99.official@gmail.com**
-
-- 👨‍💻 Personal Portfolio [https://konfiker-kido.github.io/Porfolio/#home](https://konfiker-kido.github.io/Porfolio/#home)
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1jTUg7vTgnHGFv2eBhXzEo3q89bYVKQxs?usp=drive_link](https://drive.google.com/drive/folders/1jTUg7vTgnHGFv2eBhXzEo3q89bYVKQxs?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
